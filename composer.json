@@ -1,4 +1,5 @@
 {
     "name": "softler/amazon",
-    "require": {}
+    "require": {},
+	"minimum-stability": "stable",
 }
