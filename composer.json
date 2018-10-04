@@ -1,5 +1,22 @@
 {
     "name": "softler/amazon",
-    "require": {},
-	"minimum-stability": "stable",
+    "type": "library",
+    "description": "Amazon Marketplace Web Service PHP Client Library",
+    "keywords": ["amazon", "mws", "client", "api", "library"],
+    "homepage": "",
+    "licence": "Apache-2.0",
+    "authors": [
+        {
+          "name": "Test Softler",
+          "email": "task.softler@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "include-path": ["src/"]
 }
