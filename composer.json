@@ -5,6 +5,7 @@
     "keywords": ["amazon", "mws", "client", "api", "library"],
     "homepage": "",
     "licence": "Apache-2.0",
+    "minimum-stability": "dev",
     "authors": [
         {
           "name": "Test Softler",
