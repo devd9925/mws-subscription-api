@@ -1,6 +1,6 @@
 {
     "name": "devd9925/mws-subscription-api",
-    "type": "library",
+    "type": "yii2-extension",
     "description": "Amazon Marketplace Web Service PHP Client Library",
     "keywords": ["amazon", "mws", "client", "api", "library"],
     "homepage": "",
