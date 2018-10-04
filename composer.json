@@ -12,11 +12,5 @@
         }
     ],
     "require": {
-        "php": ">=5.2.8",
-        "ext-curl": "*"
-    },
-    "autoload": {
-        "classmap": ["src/"]
-    },
-    "include-path": ["src/"]
+    }
 }
