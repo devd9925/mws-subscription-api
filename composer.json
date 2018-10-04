@@ -13,5 +13,10 @@
         }
     ],
     "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "devd9925\\mws-subscription-api\\": ""
+        }
     }
 }
